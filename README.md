@@ -1,6 +1,8 @@
 # Audio-Clustering-with-Python-and-Max-MSP
 Clustering different audio tracks with Python and controlling it with Max MSP, leveraging the IMUBU system by IRCAM.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gio961gio/Music-to-Image-Interpolation/blob/main/Audio_Clustering_with_Python_and_Max_MSP.ipynb) <--- Link to project in Google Colab
+
 ---
 ## Demonstration
 
