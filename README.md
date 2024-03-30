@@ -46,6 +46,9 @@ As a final step, you need to modify the message box 'readfolder' located at the 
 ![readfolder](https://github.com/gio961gio/Audio-Clustering-with-Python-and-Max-MSP/assets/163283326/b1d16b65-8c30-4f3e-8383-56751ffbc02d)
 
 
+Finally, you need to close, save, and restart the project in order to use it!
+
+
 
 
 
